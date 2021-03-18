@@ -1,9 +1,13 @@
 body{
     text-align:center;
-            background: linear-gradient(blue 0%, aqua 100%);
+            background: linear-gradient(crimson 0%, red 100%);
     
 }
 #charles{
-    height:100px;
-    width:100px;
+    height:200px;
+    width:250px;
+}
+#desc{
+    font:20px;
+    color: lawngreen;
 }
